@@ -1,3 +1,6 @@
 __pycache__/
 cookies/
 .DS_Store
+.idea
+history.yaml
+

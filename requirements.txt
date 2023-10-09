@@ -1,2 +1,4 @@
-selenium==4.13.0
-webdriver-manager==4.0.1
+selenium
+webdriver-manager
+colorama
+PyYaml
